@@ -1,0 +1,23 @@
+name: boxgramer 
+recipe: laravel
+config: 
+  php: '8.2'
+  composer_version: '2.6.5'
+  webroot: public
+  database: mariadb
+  cache: none
+  xdebug: false
+
+services:
+  database: 
+    type: mariadb
+    creds:
+      user: boxgramer 
+      password: boxgramer 
+      database: boxgramer 
+
+  phpmyadmin:
+    type: phpmyadmin
+
+
+

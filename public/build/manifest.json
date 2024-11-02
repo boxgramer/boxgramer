@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-K3sDNgzR.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/imagerimba.jpeg": {
+    "file": "assets/imagerimba-AUxQUoSH.jpeg",
+    "src": "resources/images/imagerimba.jpeg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-z-Rg4TxU.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
