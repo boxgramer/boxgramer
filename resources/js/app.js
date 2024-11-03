@@ -38,6 +38,8 @@ for ( var i = 0; i < elms.length; i++ ) {
 
   }  ).mount();
 }
+const tooltip = document.querySelector('.tooltip');
+ tooltip.classList.add('show');
 setInterval(() => {
     const tooltip = document.querySelector('.tooltip');
     tooltip.classList.add('show');
