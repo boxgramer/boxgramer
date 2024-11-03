@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-K3sDNgzR.css",
+    "file": "assets/app-DsUTrMmX.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
@@ -8,10 +8,45 @@
     "file": "assets/imagerimba-AUxQUoSH.jpeg",
     "src": "resources/images/imagerimba.jpeg"
   },
+  "resources/images/pos/barang.png": {
+    "file": "assets/barang-B1IA-1uP.png",
+    "src": "resources/images/pos/barang.png"
+  },
+  "resources/images/pos/dashboard.png": {
+    "file": "assets/dashboard-FfRpaHY8.png",
+    "src": "resources/images/pos/dashboard.png"
+  },
+  "resources/images/pos/mobile_dashboard.png": {
+    "file": "assets/mobile_dashboard-C-TkNRUY.png",
+    "src": "resources/images/pos/mobile_dashboard.png"
+  },
+  "resources/images/pos/mobile_kas.png": {
+    "file": "assets/mobile_kas-Xdxg_nsS.png",
+    "src": "resources/images/pos/mobile_kas.png"
+  },
+  "resources/images/pos/mobile_transaksi.png": {
+    "file": "assets/mobile_transaksi-Cd6VEzA4.png",
+    "src": "resources/images/pos/mobile_transaksi.png"
+  },
+  "resources/images/pos/pilih_cabang.png": {
+    "file": "assets/pilih_cabang-Dw_Rc1Iz.png",
+    "src": "resources/images/pos/pilih_cabang.png"
+  },
+  "resources/images/pos/report.png": {
+    "file": "assets/report-CRfqO_0D.png",
+    "src": "resources/images/pos/report.png"
+  },
+  "resources/images/pos/stok.png": {
+    "file": "assets/stok-9Yhrz-Z6.png",
+    "src": "resources/images/pos/stok.png"
+  },
   "resources/js/app.js": {
-    "file": "assets/app-z-Rg4TxU.js",
+    "file": "assets/app-D98G74SL.js",
     "name": "app",
     "src": "resources/js/app.js",
-    "isEntry": true
+    "isEntry": true,
+    "css": [
+      "assets/app-r5sPp1or.css"
+    ]
   }
 }

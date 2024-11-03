@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes jump {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.jumping-button {
+    animation: jump 2s infinite ease-in-out;
+}
+
+/* Tooltip appearance using Tailwind */
+.tooltip {
+    @apply opacity-0 transition-opacity duration-300;
+}
+
+.tooltip.show {
+    @apply opacity-100;
+}
