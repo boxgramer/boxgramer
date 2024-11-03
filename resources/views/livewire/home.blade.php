@@ -3,6 +3,17 @@
 use function Livewire\Volt\{state};
 
 state([
+    'summary' => "
+Hi, I'm Rimba Bazudewa, also known as Boxgramer. I am the co-founder of Emadika Technology, where I help people solve their problems, primarily by digitizing their businesses. I have a strong curiosity about technology and enjoy tackling challenges in this field.
+
+With over 5 years of experience as a programmer, I have developed numerous websites, software applications, and games. My primary technologies include Laravel, godot engine and Flutter, but I'm also open to exploring Rustlang and other emerging technologies.
+
+If you're interested in creating a project together, feel free to email me!
+
+Currently, I live in Bali, Indonesia.
+
+
+    ",
     'carrers' => [
         [
             'nama' => 'full stack programer',
@@ -189,15 +200,7 @@ feel free to ask me anything
     {{-- motivation letter --}}
     <div class="w-full">
         <p class="text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum, risus
-            magna luctus metus, sit amet pulvinar tellus elit eget arcu. Nunc sit amet eleifend erat. Nulla semper
-            bibendum aliquam. Aenean rhoncus feugiat condimentum. Quisque sit amet vulputate metus. Pellentesque congue
-            diam arcu, id dapibus est tempor sed. Nam ac vehicula lacus. Vestibulum convallis lectus ac velit venenatis
-            aliquam. Phasellus cursus molestie lorem et auctor. Morbi ligula risus, consectetur eu suscipit a, posuere
-            tempor sapien. Sed vel aliquam erat. Morbi ac ante non nulla cursus pellentesque. Morbi vitae erat
-            efficitur, hendrerit odio nec, euismod ante. Nunc eleifend ut justo quis volutpat. Nunc id augue lacinia,
-            tristique ligula venenatis, dapibus enim. Aliquam molestie, tellus id pellentesque pulvinar, dolor neque
-            dapibus augue, at aliquam orci ex et magna.
+{{$this->summary}}
         </p>
     </div>
     {{-- container project and  carrer --}}
