@@ -265,7 +265,7 @@ feel free to ask me anything
 
         <div class="flex justify-center space-x-4 mb-10">
             <!-- LinkedIn Link -->
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/boxgramer/" target="_blank" rel="noopener noreferrer"
                 class="text-blue-600 hover:text-blue-800">
                 <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
                     <path
@@ -274,7 +274,7 @@ feel free to ask me anything
             </a>
 
             <!-- GitHub Link -->
-            <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/boxgramer" target="_blank" rel="noopener noreferrer"
                 class="text-gray-800 hover:text-gray-900">
                 <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
                     <path
