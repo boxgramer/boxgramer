@@ -19,15 +19,15 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'full stack programer',
             'company' => 'STMIK Primakara (now known as Primakara University) ',
             'time' => 'Nov 2020- Nov 2021',
-            'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-            'techstack' => ['laravel', 'code igniter', 'vuejs'],
+            'jobdesk' => 'manage academic system , develop an employee management system  ',
+            'techstack' => ['laravel', 'codeigniter', 'vuejs'],
             'status' => 'full-time',
         ],
         [
             'nama' => 'full stack programer and mobile programer',
             'company' => 'freelance',
             'time' => 'Nov 2021- Mei 2023',
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'develop sistem depend on client request',
             'techstack' => ['laravel', 'flutter', 'reactjs', 'godot engine'],
             'status' => 'full-time',
         ],
@@ -35,7 +35,7 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'Game Programer',
             'company' => 'betterfly studio',
             'time' => 'Nov 2021- Nov 2022',
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'develop mobile game using godot engine',
             'techstack' => ['godot engine'],
             'status' => 'part-time',
         ],
@@ -43,7 +43,7 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'full stack programer',
             'company' => 'locallead.id',
             'time' => 'sep 2022- Mei 2023',
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'develop assesment system',
             'techstack' => ['laravel'],
             'status' => 'full-time',
         ],
@@ -51,7 +51,7 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'Full Stack Programer & co-founder',
             'company' => 'emadikatechnology',
             'time' => 'mei 2023- desember 2024',
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'develop system for client ',
             'techstack' => ['laravel', 'flutter'],
             'status' => 'full-time',
         ],
@@ -59,17 +59,19 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'Tech Lead & co-founder',
             'company' => 'emadikatechnology',
             'time' => ' desember 2024 - present',
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'managment team , develop product , management task project ',
             'techstack' => ['laravel', 'flutter', 'livewire', 'rustlang', 'golang'],
             'status' => 'full-time',
         ],
     ],
     'projects' => [
         [
-            'nama' => 'POS Sistem Backend',
+            'nama' => 'POS Sistem ',
             'feature' => ['manage database backup', 'user management', 'stock opname', 'stock management', 'report', 'voucher', 'member'],
             'images' => ['resources/images/pos/dashboard.png', 'resources/images/pos/barang.png', 'resources/images/pos/pilih_cabang.png', 'resources/images/pos/report.png', 'resources/images/pos/stok.png'],
-            'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => ' this system using laravel project and using rest architecture,
+            this webapp purpose  for managaging stock,user   client pos , get report from multple branch 
+             my role in this project is optimize performace , review code  , mangaging team',
             'techstack' => ['laravel', 'livewire', 'myslq'],
             'team' => '2',
             'status' => 'completed',
@@ -78,101 +80,71 @@ Currently, I live in Bali, Indonesia.
             'nama' => 'POS Mobile',
             'feature' => ['transaction', 'report'],
             'images' => ['resources/images/pos/mobile_dashboard.png', 'resources/images/pos/mobile_transaksi.png', 'resources/images/pos/mobile_kas.png'],
-            'jobdesk' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
+            'jobdesk' => 'this app develop using flutter for client and connected to POS Sistem  ,  my role is programer  who    develop,managing team  and  optimize code ',
             'techstack' => ['flutter'],
             'team' => '1',
             'status' => 'completed',
         ],
-        // [
-        //     'nama' => 'Invoice Sistem',
-        //     'feature' =>  [
-        //         'feateure',
-        //         'feateure 1',
-        //         'feateure 2',
-        //     ],
-        //     'images' => [
-        //         'image1',
-        //         'image2',
+        [
+            'nama' => 'Invoice Sistem',
+            'feature' =>  [
+                'booking',
+                'invoice',
+                'report',
+            ],
+            'images' => [
+                'resources/images/trem/login.png',
+                'resources/images/trem/dashboard.png',
+                'resources/images/trem/booking.png',
+                'resources/images/trem/transaksi.png',
+                'resources/images/trem/detail_booking.png',
+            ],
+            'jobdesk' => 'this  webapp was develop using laravel, my role is a programer ',
+            'techstack' => ['laravel', 'blade', 'mysql'],
+            'team' => '1',
+            'status' => 'completed',
 
-        //     ],
-        //     'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-        //     'techstack' => ['laravel', 'code igniter', 'vuejs'],
-        //     'team' => '2',
-        //     'status' => 'completed',
+        ],
+        [
+            'nama' => 'Examp App',
+            'feature' =>  [
+                'exam',
+            ],
+            'images' => [
+                'resources/images/cbt/mobile_login.png',
+                'resources/images/cbt/mobile_start_test.png',
+                'resources/images/cbt/mobile_run_test.png',
+                'resources/images/cbt/mobile_finish_test.png',
+                'resources/images/cbt/mobile_score_test.png',
 
-        // ],
-        // [
-        //     'nama' => 'CBT App',
-        //     'feature' =>  [
-        //         'feateure',
-        //         'feateure 1',
-        //         'feateure 2',
-        //     ],
-        //     'images' => [
-        //         'image1',
-        //         'image2',
+            ],
+            'jobdesk' => 'this app develop using flutter for handle client exampe and connected to the CBT Sistem, my role is a programer',
+            'techstack' => ['flutter'],
+            'team' => '1',
+            'status' => 'completed',
 
-        //     ],
-        //     'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-        //     'techstack' => ['laravel', 'code igniter', 'vuejs'],
-        //     'team' => '2',
-        //     'status' => 'completed',
+        ],
+        [
+            'nama' => 'CBT Sistem',
+            'feature' =>  [
+                'manage question and answer',
+                'print certificate',
+                'report',
+            ],
+            'images' => [
+                'resources/images/cbt/login.png',
+                'resources/images/cbt/dashboard.png',
+                'resources/images/cbt/test.png',
+                'resources/images/cbt/report.png',
 
-        // ],
-        // [
-        //     'nama' => 'CBT Sistem',
-        //     'feature' =>  [
-        //         'feateure',
-        //         'feateure 1',
-        //         'feateure 2',
-        //     ],
-        //     'images' => [
-        //         'image1',
-        //         'image2',
+            ],
+            'jobdesk' => 'this webapp develop using laravel for managing and reporting user result examp, my role is a progarmer ',
+            'techstack' => ['laravel', 'blade', 'mysql'],
+            'team' => '2',
+            'status' => 'completed',
 
-        //     ],
-        //     'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-        //     'techstack' => ['laravel', 'code igniter', 'vuejs'],
-        //     'team' => '2',
-        //     'status' => 'completed',
+        ],
 
-        // ],
-        // [
-        //     'nama' => '',
-        //     'feature' =>  [
-        //         'feateure',
-        //         'feateure 1',
-        //         'feateure 2',
-        //     ],
-        //     'images' => [
-        //         'image1',
-        //         'image2',
-
-        //     ],
-        //     'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-        //     'techstack' => ['laravel', 'code igniter', 'vuejs'],
-        //     'team' => '2',
-        //     'status' => 'completed',
-
-        // ],
-        // [
-        //     'nama' => 'Asessmen Sistem',
-        //     'feature' =>  [
-        //         'feateure',
-        //         'feateure 1',
-        //         'feateure 2',
-        //     ],
-        //     'images' => [
-        //         'image1',
-        //         'image2',
-
-        //     ],
-        //     'jobdesk' => '   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat, nibh vel placerat condimentum,',
-        //     'techstack' => ['laravel', 'code igniter', 'vuejs'],
-        //     'team' => '2',
-        //     'status' => 'completed',
-
-        // ],
     ],
 ]);
 
@@ -185,7 +157,7 @@ Currently, I live in Bali, Indonesia.
 feel free to ask me anything
         </div>
   <!-- Email Link -->
-            <a href="mailto:youremail@example.com" class="text-red-600 hover:text-red-800">
+            <a href="mailto:boxgramer@gmail.com" class="text-red-600 hover:text-red-800">
                 <svg class=" h-6 w-6 md:h-16 md:w-16" fill="currentColor" viewBox="0 0 24 24">
                     <path
                         d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 2v.01L12 11 4 6.01V6h16zm-16 4l7.35 4.47c.3.18.68.18.98 0L20 10v8H4v-8z" />

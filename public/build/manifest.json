@@ -4,6 +4,42 @@
     "src": "resources/css/app.css",
     "isEntry": true
   },
+  "resources/images/cbt/dashboard.png": {
+    "file": "assets/dashboard-H2gtEQWz.png",
+    "src": "resources/images/cbt/dashboard.png"
+  },
+  "resources/images/cbt/login.png": {
+    "file": "assets/login-CXkNLMxP.png",
+    "src": "resources/images/cbt/login.png"
+  },
+  "resources/images/cbt/mobile_finish_test.png": {
+    "file": "assets/mobile_finish_test-DgmktOy7.png",
+    "src": "resources/images/cbt/mobile_finish_test.png"
+  },
+  "resources/images/cbt/mobile_login.png": {
+    "file": "assets/mobile_login-CCnBEhEk.png",
+    "src": "resources/images/cbt/mobile_login.png"
+  },
+  "resources/images/cbt/mobile_run_test.png": {
+    "file": "assets/mobile_run_test-K7KeG0Js.png",
+    "src": "resources/images/cbt/mobile_run_test.png"
+  },
+  "resources/images/cbt/mobile_score_test.png": {
+    "file": "assets/mobile_score_test-BXwGIatL.png",
+    "src": "resources/images/cbt/mobile_score_test.png"
+  },
+  "resources/images/cbt/mobile_start_test.png": {
+    "file": "assets/mobile_start_test-DkjI3fU_.png",
+    "src": "resources/images/cbt/mobile_start_test.png"
+  },
+  "resources/images/cbt/report.png": {
+    "file": "assets/report-DrF-RDbx.png",
+    "src": "resources/images/cbt/report.png"
+  },
+  "resources/images/cbt/test.png": {
+    "file": "assets/test-vCirtP4c.png",
+    "src": "resources/images/cbt/test.png"
+  },
   "resources/images/imagerimba.jpeg": {
     "file": "assets/imagerimba-AUxQUoSH.jpeg",
     "src": "resources/images/imagerimba.jpeg"
@@ -39,6 +75,26 @@
   "resources/images/pos/stok.png": {
     "file": "assets/stok-9Yhrz-Z6.png",
     "src": "resources/images/pos/stok.png"
+  },
+  "resources/images/trem/booking.png": {
+    "file": "assets/booking-DaSZh8HN.png",
+    "src": "resources/images/trem/booking.png"
+  },
+  "resources/images/trem/dashboard.png": {
+    "file": "assets/dashboard-BX2V68tg.png",
+    "src": "resources/images/trem/dashboard.png"
+  },
+  "resources/images/trem/detail_booking.png": {
+    "file": "assets/detail_booking-DyiOzbut.png",
+    "src": "resources/images/trem/detail_booking.png"
+  },
+  "resources/images/trem/login.png": {
+    "file": "assets/login-CkpAocEO.png",
+    "src": "resources/images/trem/login.png"
+  },
+  "resources/images/trem/transaksi.png": {
+    "file": "assets/transaksi-CZerzVCG.png",
+    "src": "resources/images/trem/transaksi.png"
   },
   "resources/js/app.js": {
     "file": "assets/app-DIVdVbjA.js",
