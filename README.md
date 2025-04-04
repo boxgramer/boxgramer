@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neon_Brain_Icon.svg" width="100" alt="Boxgramer Logo"/>
-</p>
+
 
 <h1 align="center">BOXGRAMER</h1>
 
