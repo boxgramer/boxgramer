@@ -1,10 +1,8 @@
-
-
 <h1 align="center">BOXGRAMER</h1>
 
 <p align="center">
-  <strong>Lebih dari 5 tahun pengalaman sebagai programmer.</strong><br/>
-  Menguasai berbagai teknologi modern untuk pengembangan perangkat lunak, mulai dari backend hingga frontend, serta deployment dengan containerization.
+  <strong>Over 5 years of professional experience in software development.</strong><br/>
+  Passionate about cybersecurity and secure coding practices. Skilled in a wide range of modern technologies, from backend to frontend development, and proficient in deploying scalable applications using containerization.
 </p>
 
 <p align="center">
@@ -16,6 +14,8 @@
   <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-Design-blue.svg" alt="TailwindCSS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-Deployment-blue.svg" alt="Docker"/></a>
 </p>
+
 <p align="center">
   📧 Contact: <a href="mailto:boxgramer@gmail.com">boxgramer@gmail.com</a>
 </p>
+
